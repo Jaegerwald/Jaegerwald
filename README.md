@@ -1,6 +1,3 @@
-Hello, I'm JaegerwaldDev!
+Hello, I'm <a href="https://www.github.com/JaegerwaldDev" style="text-decoration: none; "> @JaegerwaldDev</a>!
 <br><br>
-<strong>Setup</strong> <br>
-Keyboard: Razer Blackwidow V3 - Green Keycaps <br>
-Mouse: Razer Basilisk X Hyperspeed<br>
-Headset: Razer Kraken V3<br>
+You can contact me on my <a href="https://discordapp.com/users/711944262173982822" style="text-decoration: none; "> Discord</a>.
