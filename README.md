@@ -12,4 +12,4 @@ I'm currently taking a break from social media.
 
 ---
 
-**Hint:** Press <kbd>Shift ⇧</kbd> to run.
+**Hint:** Press <kbd>LShift ⇧</kbd> to run.
