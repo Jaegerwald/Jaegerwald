@@ -1,4 +1,4 @@
-# I press keys on my keyboard and pretend to know what I'm doing.
+# I press keys on my keyboard and pretend to know what I'm doing. 
 
 I'm currently taking a break from social media. Hopefully I'll be back soon.
 
@@ -12,4 +12,4 @@ I'm currently taking a break from social media. Hopefully I'll be back soon.
 
 ---
 
-**Hint:** Press <kbd>LShift ⇧</kbd> to run.
+**Hint:** Press <kbd>Shift ⇧</kbd> to run.
