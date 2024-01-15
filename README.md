@@ -1,4 +1,7 @@
 # I press keys on my keyboard and pretend to know what I'm doing.
+
+I'm currently taking a break from social media.
+
 ## Some info about me
 - 🇦🇹 Self-taught software developer and artist from Austria.
 - ✨ Programming is my hobby.
