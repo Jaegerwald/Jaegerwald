@@ -2,6 +2,7 @@
 
 ## Some info about me
 - 🇦🇹 Self-taught software developer and artist from Austria.
+- 🍳 I've recently found a passion for cookin' food.
 - ✨ Programming is my hobby.
 - ❔ More information @ [my website](https://jaegerwalddev.github.io/)
 ---
