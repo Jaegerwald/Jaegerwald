@@ -1,9 +1,2 @@
-> [!NOTE]
-> I am migrating everything (except Nexulien Stuff and a few other exceptions) to Codeberg at the moment.
-> Please be patient, thank you. :3
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jaegerwald&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Jaegerwald's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaegerwald&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Jaegerwald's GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=Jaegerwald&theme=dark&hide_border=true" alt="Jaegerwald's GitHub Stats" />
+<a href="https://codeberg.org/Jaegerwald"><img src="https://codeberg.org/assets/img/logo-250px-dark.png"></a><br>
+<sub>W4SP, KEE and the KEE Wiki remain here because I don't want to hurt the projects.</sub>
