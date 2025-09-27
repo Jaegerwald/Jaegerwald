@@ -1,4 +1,6 @@
-Temporary.
+> [!NOTE]
+> I am migrating everything (except Nexulien Stuff and a few other exceptions) to Codeberg at the moment.
+> Please be patient, thank you. :3
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jaegerwald&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Jaegerwald's GitHub Stats" />
 
